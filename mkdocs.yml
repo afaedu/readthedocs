@@ -1,0 +1,10 @@
+site_name: My Static Site
+theme:
+  name: readthedocs
+
+nav:
+  - Home: index.html
+  - About: about.html
+
+extra_css:
+  - style.css
